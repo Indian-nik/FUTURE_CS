@@ -1,6 +1,6 @@
 # 🛡️ Incident Response Report  
-**Prepared By**: Dorcas Johnson   
-**Date**: July 30, 2025  
+**Prepared By**: Pawan Bharambe   
+**DaNovember 21, 2025te**: July 30, 2025  
 **Toolset**: Splunk Enterprise, Kali Linux, Simulated Log Dataset (SOC_Task2_Sample_Logs.txt)
 
 ---
