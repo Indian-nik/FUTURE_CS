@@ -96,20 +96,20 @@ Feel free to open issues, submit pull requests, and share your own experiences a
 
 ## Author
 
-Dorcas Johnson  
+Pawan Bharambe  
 Cybersecurity Intern  
-Location: Remote
+Location: Aurangabad, Maharashtra, India
 
 ---
 
 ## 📧 Contact
 
-For questions or issues, please [open an issue](https://github.com/deejonsen/FUTURE_CS/issues) or contact [deejonsen23@gmail.com](deejonsen23@gmail.com).
+For questions or issues, please [open an issue](https://github.com/Indian-nik/FUTURE_CS/issues) or contact [pawanbharambe1@gmail.com](pawanbharambe1@gmail.com).
 
 
 ### **Resources** 
-- 🔗 [https://github.com/deejonsen/FUTURE_CS/blob/main/FUTURE_CS_01.md](https://github.com/deejonsen/FUTURE_CS/blob/main/FUTURE_CS_01.md)
-- 🔗 [https://github.com/deejonsen/FUTURE_CS/blob/main/FUTURE_CS_02.md](https://github.com/deejonsen/FUTURE_CS/blob/main/FUTURE_CS_02.md)
-- 🔗 [https://github.com/deejonsen/FUTURE_CS/blob/main/FUTURE_CS_03.md](https://github.com/deejonsen/FUTURE_CS/blob/main/FUTURE_CS_03.md)
+- 🔗 [https://github.com/Indian-nik/FUTURE_CS/blob/main/FUTURE_CS_01.md](https://github.com/Indian-nik/FUTURE_CS/blob/main/FUTURE_CS_01.md)
+- 🔗 [https://github.com/Indian-nik/FUTURE_CS/blob/main/FUTURE_CS_02.md](https://github.com/Indian-nik/FUTURE_CS/blob/main/FUTURE_CS_02.md)
+- 🔗 [https://github.com/Indian-nik/FUTURE_CS/blob/main/FUTURE_CS_03.md](https://github.com/Indian-nik/FUTURE_CS/blob/main/FUTURE_CS_03.md)
 
 ---
